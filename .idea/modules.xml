@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaCore/Inherit/Inherit.iml" filepath="$PROJECT_DIR$/JavaCore/Inherit/Inherit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Training.iml" filepath="$PROJECT_DIR$/Java-Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCore/JavaBeginner/JavaBeginner.iml" filepath="$PROJECT_DIR$/JavaCore/JavaBeginner/JavaBeginner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCore/JavaCore.iml" filepath="$PROJECT_DIR$/JavaCore/JavaCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCore/JavaForBegginer/JavaForBeginner.iml" filepath="$PROJECT_DIR$/JavaCore/JavaForBegginer/JavaForBeginner.iml" />
+    </modules>
+  </component>
+</project>
