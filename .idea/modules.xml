@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaCore/JavaBeginner/JavaBeginner.iml" filepath="$PROJECT_DIR$/JavaCore/JavaBeginner/JavaBeginner.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCore/JavaCore.iml" filepath="$PROJECT_DIR$/JavaCore/JavaCore.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCore/JavaForBegginer/JavaForBeginner.iml" filepath="$PROJECT_DIR$/JavaCore/JavaForBegginer/JavaForBeginner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCore/StringArrayDate/StringArrayDate.iml" filepath="$PROJECT_DIR$/JavaCore/StringArrayDate/StringArrayDate.iml" />
     </modules>
   </component>
 </project>
